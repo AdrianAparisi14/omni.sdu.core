@@ -1,0 +1,5 @@
+omni/sdu/ur/ogn/tests/
+omni/sdu/ur/ogn/docs/
+.idea/
+*.pyc
+**/__pycache__/
